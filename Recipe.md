@@ -1,3 +1,4 @@
+Follow the follwoing steps:-
 Take the pizza base.
 Spread some sause on the pizza base.
 Spread the cheese evenly on the pizza base.

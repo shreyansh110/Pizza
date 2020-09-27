@@ -5,4 +5,4 @@ Cheese
 Sauce
 Origanos
 Chilli flakes
-If you have these things we are ready to make our pizza
+If you have these things we are ready to make our pizza.
